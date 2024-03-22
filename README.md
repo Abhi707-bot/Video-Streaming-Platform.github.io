@@ -18,4 +18,4 @@ I also created new expanded sidebar which has hover effects to each icons of web
 
 ![ss4](https://user-images.githubusercontent.com/68341067/213869910-78e251b4-c520-4c86-b17d-1b83af3d4562.png)
 
-For real-time experience and info. visit this website https://abhi707-bot.github.io/Video-Streaming-Platform.github.io/
+For real-time experiences and info. visit this website https://abhi707-bot.github.io/Video-Streaming-Platform.github.io/
