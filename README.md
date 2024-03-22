@@ -1,4 +1,4 @@
-# youtube-clone-html-css.github.io
+# Video-Streaming-Platform.github.io
 
 Created Youtube-clone website using html and css also added some features from my side.
 
